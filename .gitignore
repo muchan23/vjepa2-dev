@@ -33,3 +33,10 @@ configs/local
 
 # Sample files
 sample_video.mp4
+
+# Model weights (too large for GitHub)
+*.pt
+ssv2_classes.json
+
+# Generated images
+notebooks/*.png
