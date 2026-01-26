@@ -40,3 +40,8 @@ ssv2_classes.json
 
 # Generated images
 notebooks/*.png
+
+# Docs - track blog/ and mineru_output/, ignore .venv, images, papers
+docs/.venv/
+docs/images/
+docs/papers/
